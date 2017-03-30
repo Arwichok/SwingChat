@@ -1,5 +1,5 @@
-Hello it's project SwingChat
-Start this command in cmd, if you want:
+Hello it's project SwingChat <br />
+Start this command in cmd, if you want: <br />
 Compilate		-	comp <br />
 Launch			-	launch <br />
 Launch server	-	launchServer <br />
